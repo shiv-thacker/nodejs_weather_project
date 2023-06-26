@@ -1,0 +1,14 @@
+{
+  "name": "weather_prohect_nodejs",
+  "version": "1.0.0",
+  "description": "node js code for detect weather condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivang thacker",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
